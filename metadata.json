@@ -1,0 +1,6 @@
+{
+  "name": "Aaru",
+  "description": "Friendly voice AI assistant with full phone control, smart actions, and advanced personal memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
